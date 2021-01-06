@@ -9,6 +9,8 @@ const juegue = async() => {
     // imprimir por consola todos los datos de pikachu
     // https://pokeapi.co/api/v2/pokemon/25/ estructura de 1 pokemon
 
+
+
 }
 
 juegue()
